@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(135deg,#1f2937,#111827);
+    color:#111;
+}
+
+.card{
+    border-radius:20px;
+}
+
+textarea{
+    resize:none;
+}
+
+.log-box{
+    background:#000;
+    color:#ffffff;
+    padding:10px;
+    height:150px;
+    overflow:auto;
+    font-family:'Times New Roman', Times, serif;
+    border-radius:10px;
+}
